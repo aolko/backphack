@@ -1,0 +1,16 @@
+{
+  "name": "aolko/php_project",
+  "description": "Yet Another PHP Project",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      // Your name here
+      "name": "aolko"
+    }
+  ],
+  // Define your dir for composer packages and remove this comment
+  "config": {
+    "vendor-dir": "lib"
+  }
+}
